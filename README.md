@@ -1,26 +1,26 @@
  ## Web 
- ->socket.io-client
- ->react-redux
- ->react-hook-form
- ->tailwindcss
+ -> socket.io-client \
+ -> react-redux \
+ -> react-hook-form \
+ -> tailwindcss \
 
  ## Mobil
- ->socket.io-client
- ->react-redux
- ->react-hook-form
- ->react-navigation
- ->expo-image-picker
- ->@react-native-async-storage/async-storage
- ->react-native-toast-message
+ -> socket.io-client \
+ -> react-redux \
+ -> react-hook-form \
+ -> react-navigation \
+ -> expo-image-picker \
+ -> @react-native-async-storage/async-storage \
+ -> react-native-toast-message \
 
  ## Api
- ->socket.io
- ->cors
- ->express
- ->jsonwebtoken
- ->mongoose
- ->nodemon
- ->uuid
+ -> socket.io \
+ -> cors \
+ -> express \
+ -> jsonwebtoken \
+ -> mongoose \
+ -> nodemon \
+ -> uuid \
 
 
  ### WebImage
